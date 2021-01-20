@@ -45,7 +45,7 @@ Esto va a provocar que estos archivos sean legibles para la librería Pandas, pe
 
 Importación de los archivos con la librería Pandas. La información no es legible aun, pero podemos manipularla para que resulte en una tabla sencilla con la información que seleccionemos como relevante.
 
-[Contribution guidelines for this project](nominadas.png)
+![alt text](nominadas.png)
 
 Podríamos además agregar más información utilizando los registros existentes, por ejemplo:
 
@@ -59,9 +59,9 @@ En este ejemplo, sólo conservaremos los datos originales.
 
 Se chequea si la importación se realiza correctamente mediante con cotejo de los montos totales de cada archivo con el total de las observaciones en la tabla. A su vez, se puede presentar un reporte que muestre algunos de los datos principales.
 
-[Contribution guidelines for this project](jornales.png)
+![alt text](jornales.png)
 
-[Contribution guidelines for this project](remuneraciones.png)
+![alt text](remuneraciones.png)
 
 ## Conclusiones
 
