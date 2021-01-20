@@ -45,7 +45,7 @@ Esto va a provocar que estos archivos sean legibles para la librería Pandas, pe
 
 Importación de los archivos con la librería Pandas. La información no es legible aun, pero podemos manipularla para que resulte en una tabla sencilla con la información que seleccionemos como relevante.
 
-![alt text](nominadas.png)
+![Una planilla nominada importada por Pandas](https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/nominada.png)
 
 Podríamos además agregar más información utilizando los registros existentes, por ejemplo:
 
@@ -59,9 +59,9 @@ En este ejemplo, sólo conservaremos los datos originales.
 
 Se chequea si la importación se realiza correctamente mediante con cotejo de los montos totales de cada archivo con el total de las observaciones en la tabla. A su vez, se puede presentar un reporte que muestre algunos de los datos principales.
 
-![alt text](jornales.png)
+![Visualización de "Días Trabajados"](https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/jornales.png)
 
-![alt text](remuneraciones.png)
+![Visualización de "Importe"](https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/remuneraciones.png)
 
 ## Conclusiones
 
