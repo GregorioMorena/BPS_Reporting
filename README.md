@@ -1,4 +1,4 @@
-# BPS_Reporting
+# [BPS_Reporting](https://github.com/GregorioMorena/BPS_Reporting/blob/main/f_bps.ipynb)
 
 Todas las empresas uruguayas deben remitir mensualmente la información de los salarios pagados al Banco de Previsión Social (BPS). Ésto se realiza a través de un formato y una codificación específica, y por lo general es cumplimentado por estudios tercerizados o un departamento especializado dentro de la empresa.
 
@@ -8,3 +8,5 @@ Nuestra intención con este desarrollo es lograr automatizar un reporting indepe
 * Control: Para los casos en los que ya se cuente con procedimientos de reporting, este proceso automático le puede devolver algunos datos sobre cuales controlar si las retribuciones al personal y contribuciones a la seguridad social se han realizado y registrado de forma correcta.
 
 Los archivos utilizados en el ejemplo son nóminas reales donde, a efectos de conservar la privacidad de la empresa, se modificaron los datos como el número de contribuyente, RUC, cédulas y nombres.
+
+
