@@ -1,5 +1,4 @@
 # BPS_Reporting
-Payroll reporting automatizado con nóminas de BPS
 
 Todas las empresas uruguayas deben remitir mensualmente la información de los salarios pagados al Banco de Previsión Social (BPS). Ésto se realiza a través de un formato y una codificación específica, y por lo general es cumplimentado por estudios tercerizados o un departamento especializado dentro de la empresa.
 
