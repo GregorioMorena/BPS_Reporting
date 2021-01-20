@@ -78,4 +78,4 @@ Para agregar más valor a este desarrollo, se puede complementar con informació
 
 [LinkedIn](https://www.linkedin.com/in/gregoriomorena/)
 
-[Twitter]https://twitter.com/GregorioMP1985
+[Twitter](https://twitter.com/GregorioMP1985)
