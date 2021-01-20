@@ -59,11 +59,9 @@ En este ejemplo, sólo conservaremos los datos originales.
 
 Se chequea si la importación se realiza correctamente mediante con cotejo de los montos totales de cada archivo con el total de las observaciones en la tabla. A su vez, se puede presentar un reporte que muestre algunos de los datos principales.
 
-
-![Visualización de "Días Trabajados"](https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/jornales.png)
-
-![Visualización de "Importe"](https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/remuneraciones.png)
-
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/jornales.png">
+</p>
 
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/GregorioMorena/BPS_Reporting/main/remuneraciones.png">
